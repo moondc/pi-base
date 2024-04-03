@@ -13,4 +13,3 @@
 #### Get pi ready
 1. ssh into your pi
 1. run this script `curl -s https://raw.githubusercontent.com/moondc/pi-base/main/install-docker.sh | bash`
-1. Logout and back in (or restart it)
