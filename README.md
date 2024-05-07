@@ -13,3 +13,6 @@
 #### Get pi ready
 1. ssh into your pi
 1. run this script `curl -s https://raw.githubusercontent.com/moondc/pi-base/main/install-docker.sh | bash`
+
+#### Future headache
+I needed to create a new docker builder for the arm platform but I don't remember what I did exactly, it was pretty easy just a couple of docker commands I think.
