@@ -1,3 +1,4 @@
+#installs docker
 sudo apt update -y
 sudo apt upgrade -y
 curl -sSL https://get.docker.com | sh
