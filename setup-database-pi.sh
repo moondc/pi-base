@@ -9,4 +9,4 @@ sudo gpasswd -a $USER docker
 echo "vm.max_map_count=262144" | sudo tee -a /etc/sysctl.conf
 sudo sysctl -p
 
-logout
+sudo reboot
